@@ -33,6 +33,9 @@ I've been working with:
   </a>
   <a href="https://instagram.com/th4yMuller" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%231DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a> 
+  <a href="https://behance.net/thaynamuller" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-%231DA1F2?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>  
 </p>
 
