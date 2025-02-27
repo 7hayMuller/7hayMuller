@@ -1,7 +1,7 @@
 # 7hayMuller
 
 <p align="center">
-  <img src="/gif.gif" width="150">
+  <img src="/gif.gif" width="500">
 </p>
 
 <br/>
