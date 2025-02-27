@@ -7,12 +7,12 @@
 <br/>
 
 <p align="center">
-  <img src="/react.png" width="80">
-  <img src="/next.png" width="80">
-  <img src="/javascript.png" width="80">
-  <img src="/typescript.png" width="80">
-  <img src="/tailwind.png" width="80">
-  <img src="/sass-logo.png" width="80">
+  <img src="/react.png" hspace="20" width="80">
+  <img src="/next.png" hspace="20" width="80">
+  <img src="/javascript.png" hspace="20" width="80">
+  <img src="/typescript.png" hspace="20" width="80">
+  <img src="/tailwind.png" hspace="20" width="80">
+  <img src="/sass-logo.png" hspace="20" width="80">
 </p>
 
 
