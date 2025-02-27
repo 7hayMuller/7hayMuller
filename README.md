@@ -1,5 +1,8 @@
 # 7hayMuller
-![GIF](gif.gif)
+
+<p align="center">
+  <img src="/gif.gif" width="150">
+</p>
 
 <br/>
 
