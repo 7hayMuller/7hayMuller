@@ -4,11 +4,11 @@
   <img src="/gif.gif" width="500">
 </p>
 
-# 🌍 Hey, Thayná talking here!  
+# Hey, Thayná talking here✌️  
 
 I'm a **Frontend Developer** and **UI Designer** from Brazil, always looking for inspiration through **traveling, exploring different cultures, and embracing new perspectives**.  
 
-🎵 I love listening to house music, 📚 reading books, 🌊 contemplating the sea, and diving into my own world, allowing myself to **explore creativity without limits**.  
+I love listening to house music, reading books, contemplating the sea, and diving into my own world, allowing myself to **explore creativity without limits**.  
 
 ---
 
