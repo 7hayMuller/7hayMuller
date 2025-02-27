@@ -1,4 +1,4 @@
-# 7haynMuller
+# 7hayMuller
 ![GIF](gif.gif)
 ![REACT](react.png)
 ![NEXT](next.png)
